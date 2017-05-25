@@ -7,7 +7,6 @@
 ###make examples reproducible (make fake data if you have too) !!!!!!
 
 
-
 #1. Annes plotting loops (coming soon)
 
 
@@ -15,3 +14,4 @@
     #includes a basic slide show and a advanced slide show with Shiny App
 
 #3. Shiny app with ecological data (coming soon)
+
