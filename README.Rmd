@@ -15,3 +15,5 @@ Includes a basic slide show and a advanced slide show with Shiny App.
 
 3. Shiny app with ecological data (coming soon)
 
+4. Shun is supposedly good at R and will add cool stuff.
+

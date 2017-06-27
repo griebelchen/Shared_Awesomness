@@ -9,7 +9,6 @@
 
 #1. Annes plotting loops (coming soon)
 
-
 #2. Courts Rmarkdown slideshow presentations (STOP using powerpoint!!!!)
     #includes a basic slide show and a advanced slide show with Shiny App
 
